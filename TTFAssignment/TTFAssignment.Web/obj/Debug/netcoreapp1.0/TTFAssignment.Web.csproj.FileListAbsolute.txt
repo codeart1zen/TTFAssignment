@@ -1,0 +1,11 @@
+C:\src\TTFAssignment.Engine\TTFAssignment.Web\bin\Debug\netcoreapp1.0\TTFAssignment.Web.deps.json
+C:\src\TTFAssignment.Engine\TTFAssignment.Web\bin\Debug\netcoreapp1.0\TTFAssignment.Web.runtimeconfig.json
+C:\src\TTFAssignment.Engine\TTFAssignment.Web\bin\Debug\netcoreapp1.0\TTFAssignment.Web.runtimeconfig.dev.json
+C:\src\TTFAssignment.Engine\TTFAssignment.Web\bin\Debug\netcoreapp1.0\TTFAssignment.Web.dll
+C:\src\TTFAssignment.Engine\TTFAssignment.Web\bin\Debug\netcoreapp1.0\TTFAssignment.Web.pdb
+C:\src\TTFAssignment.Engine\TTFAssignment.Web\obj\Debug\netcoreapp1.0\TTFAssignment.Web.csprojResolveAssemblyReference.cache
+C:\src\TTFAssignment.Engine\TTFAssignment.Web\obj\Debug\netcoreapp1.0\TTFAssignment.Web.AssemblyInfo.cs
+C:\src\TTFAssignment.Engine\TTFAssignment.Web\obj\Debug\netcoreapp1.0\TTFAssignment.Web.dll
+C:\src\TTFAssignment.Engine\TTFAssignment.Web\obj\Debug\netcoreapp1.0\TTFAssignment.Web.pdb
+C:\src\TTFAssignment.Engine\TTFAssignment.Web\bin\Debug\netcoreapp1.0\TTFAssignment.Engine.dll
+C:\src\TTFAssignment.Engine\TTFAssignment.Web\bin\Debug\netcoreapp1.0\TTFAssignment.Engine.pdb

@@ -1,0 +1,14 @@
+C:\src\TTFAssignment.Engine\TTFAssignment.Engine\bin\Debug\netstandard1.4\TTFAssignment.Engine.deps.json
+C:\src\TTFAssignment.Engine\TTFAssignment.Engine\bin\Debug\netstandard1.4\TTFAssignment.Engine.dll
+C:\src\TTFAssignment.Engine\TTFAssignment.Engine\bin\Debug\netstandard1.4\TTFAssignment.Engine.pdb
+C:\src\TTFAssignment.Engine\TTFAssignment.Engine\obj\Debug\netstandard1.4\TTFAssignment.Engine.csprojResolveAssemblyReference.cache
+C:\src\TTFAssignment.Engine\TTFAssignment.Engine\obj\Debug\netstandard1.4\TTFAssignment.Engine.AssemblyInfo.cs
+C:\src\TTFAssignment.Engine\TTFAssignment.Engine\obj\Debug\netstandard1.4\TTFAssignment.Engine.dll
+C:\src\TTFAssignment.Engine\TTFAssignment.Engine\obj\Debug\netstandard1.4\TTFAssignment.Engine.pdb
+C:\src\TTFAssignment\TTFAssignment.Engine\bin\Debug\netstandard1.4\TTFAssignment.Engine.deps.json
+C:\src\TTFAssignment\TTFAssignment.Engine\bin\Debug\netstandard1.4\TTFAssignment.Engine.dll
+C:\src\TTFAssignment\TTFAssignment.Engine\bin\Debug\netstandard1.4\TTFAssignment.Engine.pdb
+C:\src\TTFAssignment\TTFAssignment.Engine\obj\Debug\netstandard1.4\TTFAssignment.Engine.csprojResolveAssemblyReference.cache
+C:\src\TTFAssignment\TTFAssignment.Engine\obj\Debug\netstandard1.4\TTFAssignment.Engine.AssemblyInfo.cs
+C:\src\TTFAssignment\TTFAssignment.Engine\obj\Debug\netstandard1.4\TTFAssignment.Engine.dll
+C:\src\TTFAssignment\TTFAssignment.Engine\obj\Debug\netstandard1.4\TTFAssignment.Engine.pdb
